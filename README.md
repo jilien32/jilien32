@@ -3,12 +3,12 @@
 저는 코딩을 배우며 재미있는 것을 만들어 보고 싶어요.
 아래는 저의 저장소입니다~ 👇
 
-## 🌱 Currently learning
+## 🌱 현재 배우고 있는 중
 - HTML, CSS
 - JavaScript
 - Python
 
-## 📫 How to reach me
+## 📫 나에게 연락하는 방법
 - Email: neira@naver.com
 - Blog: [velog.io/jilien/posts](https://velog.io/@jilien/posts)
   
