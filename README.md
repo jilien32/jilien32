@@ -22,4 +22,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
 
 
-    ![jilien32's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilien32&show_icons=true&theme=tokyonight)"  
+    ![jilien32's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilien32&show_icons=true&theme=tokyonight)
+
+    </div>
