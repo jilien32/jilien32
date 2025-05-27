@@ -1,7 +1,7 @@
-# 👋 Hello !
+# 👋 안녕하세요 !
 
-I'm learning to code and building fun projects 💻  
-Check out my repositories below 👇
+저는 코딩을 배우며 재미있는 것을 만들어 보고 싶어요.
+아래는 저의 저장소입니다~ 👇
 
 ## 🌱 Currently learning
 - HTML, CSS
@@ -9,9 +9,8 @@ Check out my repositories below 👇
 - Python
 
 ## 📫 How to reach me
-- Email: minji@example.com
-- Blog: [minji-dev.tistory.com](https://minji-dev.tistory.com)
-
+- Email: neira@naver.com
+- Blog: [velog.io/jilien/posts](https://velog.io/@jilien/posts)
 ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji-dev&show_icons=true&theme=tokyonight)
 
 
