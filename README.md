@@ -19,7 +19,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-
-
-    ![jilien32's GitHub stats](https://github-readme-stats.vercel.app/api?username=jilien32&show_icons=true&theme=tokyonight)
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jilien32&custom_title=jilien32's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        />  </div> 
+    </div>
+    
