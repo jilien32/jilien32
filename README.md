@@ -1,14 +1,14 @@
-# 👋 안녕하세요 !
+## 👋 안녕하세요 !
 
 저는 코딩을 배우며 재미있는 것을 만들어 보고 싶어요.
 아래는 저의 저장소입니다~ 👇
 
-## 🌱 현재 배우고 있는 중
+## 🌱 Studying
 - HTML, CSS
 - JavaScript
 - Python
 
-## 📫 나에게 연락하는 방법
+## 📫 연락처
 - Email: neira@naver.com
 - Blog: [velog.io/jilien/posts](https://velog.io/@jilien/posts)
   
@@ -19,3 +19,5 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jilien32&layout=compact)
